@@ -1,4 +1,4 @@
-# AngularPrimeng
+# Angular 20 20.3.0 with PrimeNG 20.2.0 and PrimeIcons 7.0.0
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.3.
 
